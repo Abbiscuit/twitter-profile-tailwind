@@ -1,2 +1,1 @@
-# twitter-profile-tailwind
-Created with CodeSandbox
+# First time to try Tailwind CSS
